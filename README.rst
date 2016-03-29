@@ -1,3 +1,13 @@
+****************************************
+Interface Masters Technologies, Inc ONIE
+****************************************
+
+ONIE was successfully ported to IMT HW and merged back to OCP ONIE.
+Now it's maintained under OCP ONIE:
+`https://github.com/opencomputeproject/onie/`
+
+Latest stable release that is tested across all IMT HW is 2016.02.01.
+
 ********************************
 Open Network Install Environment
 ********************************
